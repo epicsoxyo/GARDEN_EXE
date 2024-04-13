@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dda913189f2214348974a758f1a91a9e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Wavetosh
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a20f15d8c3e3f1d4e9c21246271ca722, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
